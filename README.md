@@ -6,7 +6,7 @@
 
 This custom Python script built using the Google Earth Engine (GEE) API  detects volcanic activity from Sentinel-2 imagery in user-defined areas and timeframes. By setting three key parameters i.e. (i) location, (ii) Date range, and (iii) NHI threshold, the script automates the processing and filtering of Sentinel-2 data. 
 
-It applies the Normalized Hotspot Index (NHI) to SWIR and NIR bands (B12, B11, B8A), based on the method proposed by Marchese et al. (2019), to identify thermal anomalies associated with volcanic activity. The script was run for several volcanic sites in Iceland (2020–2024) and the results include a detailed ArcGIS StoryMap highlighting time-series visualization of key eruption zones showcasing spatial patterns and impacts.
+It applies the Normalized Hotspot Index (NHI) to SWIR and NIR bands (B12, B11, B8A), based on the method proposed by Marchese et al. (2019), to identify thermal anomalies associated with volcanic activity.
 
 
 
